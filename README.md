@@ -1,4 +1,3 @@
 # personalWebSite
 
-Your WebSite looks fine
-hi how are you
+Your WebSite is working
